@@ -53,9 +53,7 @@
 点击[链接](https://www.rainyun.com/torimg_)直达
 
 点击后进入云服务器
-
-![146](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
-
+[rainyun-www](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
 推荐使用香港2h4g的配置，有备案也可以选择国内
 
 [](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
