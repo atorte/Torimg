@@ -54,13 +54,13 @@
 
 点击后进入云服务器
 
-![rainyun](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
+![146](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
 
 推荐使用香港2h4g的配置，有备案也可以选择国内
 
 [](https://pic.itxiaohui.top/20250721/9caa9205aa6054bad5d56038c3e88ba7.png)
 
-![微信截图_20250721094933](https://pic.itxiaohui.top/20250721/23beb19e567b90428696babcc6ed79a1.png)
+[](https://pic.itxiaohui.top/20250721/23beb19e567b90428696babcc6ed79a1.png)
 
 标价是48/月，领取5折优惠券后就是48*0.5=24元。
 
@@ -306,11 +306,11 @@ chmod +x install.sh
 
 回到宝塔面板，进入软件商店，搜索**进程守护管理器**，点击安装
 
-![Snipaste_2025-07-21_20-22-17](https://pic.itxiaohui.top/20250721/f19d763465ca484132c3e56b58c0f401.png)
+![](https://pic.itxiaohui.top/20250721/38c9f748ff4ef0b2a111253a34133a18.png)
 
 点开软件
 
-![image-20250721202558143](C:\Users\torte\AppData\Roaming\Typora\typora-user-images\image-20250721202558143.png)
+![](https://pic.itxiaohui.top/20250721/ffb94fa09da2da9316bd6365d9d7cc77.png)
 
 名称：lsky
 
@@ -362,12 +362,12 @@ cd /www/wwwroot/app.com && php artisan schedule:run >> /dev/null 2>&1
 
 4.无链接安全限制。图片在社交媒体均可打开，图片cdn链接域名已经经过企业备案，国内可以超快访问。
 5.图片访问测速链接，勿刷流量
-![186](https://pic.itxiaohui.top/20250721/5582d0ceb2f417d07d51f01a5ea3c478.png)
+[](https://pic.itxiaohui.top/20250721/5582d0ceb2f417d07d51f01a5ea3c478.png)
 6.支付宝微信接入，全链路SSL，保障交易安全。
 7.超低价VIP月付仅需4.99元，季付也只要11.99元。
 8.支持多平台用户端，无需浏览器。支持Windows，Mac，Linux系统，CPU架构：x86,arm等。注：Android平台客户端已在QQ群文件发布。
 
-Q群号：996529694             八折优惠券:N3FMPG
+Q群号：996529694             全场八折优惠券:N3FMPG
 
 
 
