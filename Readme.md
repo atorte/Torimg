@@ -136,10 +136,6 @@ if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_pa
 
 安装之后进入宝塔面板
 
-输入账密绑定
-
-![微信截图_20250721150951](https://pic.itxiaohui.top/20250721/939e2405d2e6182d25584152a8f58acd.png)
-
 先安装环境，蓝空图床需要下面的基本环境
 
 ### PHP 安装
@@ -368,11 +364,7 @@ cd /www/wwwroot/app.com && php artisan schedule:run >> /dev/null 2>&1
 4.无链接安全限制。图片在社交媒体均可打开，图片cdn链接域名已经经过企业备案，国内可以超快访问。
 5.图片访问测速链接，勿刷流量
 ![186](https://pic.itxiaohui.top/20250721/5582d0ceb2f417d07d51f01a5ea3c478.png)
-
 6.支付宝微信接入，全链路SSL，保障交易安全。
-
-![bingimg_20250717_UHD](https://pic.itxiaohui.top/20250721/a02d453291423b93cb304d7a5f76bcaa.jpg)
-
 7.超低价VIP月付仅需4.99元，季付也只要11.99元。
 8.支持多平台用户端，无需浏览器。支持Windows，Mac，Linux系统，CPU架构：x86,arm等。注：Android平台客户端已在QQ群文件发布。
 
