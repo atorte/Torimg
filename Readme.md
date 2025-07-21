@@ -338,11 +338,10 @@ php artisan queue:work
 cd /www/wwwroot/app.com && php artisan schedule:run >> /dev/null 2>&1
 ```
 
-![228](https://pic.itxiaohui.top/20250721/38c9f748ff4ef0b2a111253a34133a18.png)
+![22axs](https://pic.itxiaohui.top/20250721/38c9f748ff4ef0b2a111253a34133a18.png)
 
 进入计划任务页面，添加计划任务
-
-![Snipaste_2025-07-21_20-39-10](https://pic.itxiaohui.top/20250721/ffb94fa09da2da9316bd6365d9d7cc77.png)
+![229asdqs](https://pic.itxiaohui.top/20250721/ffb94fa09da2da9316bd6365d9d7cc77.png)
 
 需要注意，执行用户建议使用**www**
 
